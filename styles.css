@@ -38,3 +38,9 @@
   color: #414247;
   font-weight: bold;
 }
+.image-number{
+  color: #CDCFD1;
+}
+.image-number::before{
+  content: '#'
+}
