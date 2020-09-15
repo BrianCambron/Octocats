@@ -43,6 +43,7 @@
 }
 .image-number{
   color: #CDCFD1;
+  font-weight: bold;
 }
 .image-number::before{
   content: '#'
@@ -57,4 +58,17 @@
     position: relative;
     top:22.5px;
     right: 8%;
+}
+/* Hey Mikey*/
+.newCat1{
+  width: 350px;
+  margin-left: 180px;
+}
+.newCat2{
+  width: 350px;
+  margin-left: 40px;
+}
+.newCat3{
+  width: 350px;
+  margin-left: 40px;
 }
